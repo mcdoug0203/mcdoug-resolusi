@@ -1,0 +1,3 @@
+WPU RESOLUSI
+- Selesaikan proyek
+- Belajar Laravel 10
