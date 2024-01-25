@@ -1,3 +1,5 @@
 WPU RESOLUSI
 - Selesaikan proyek
 - Belajar Laravel 10
+- Belajar CodeIgniter
+- Cari proyek freelance
